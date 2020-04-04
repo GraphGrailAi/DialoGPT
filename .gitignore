@@ -464,7 +464,7 @@ tensorflow_code
 
 # Models
 # models
-models/
+#models/
 # test.txt
 # dstc/
 # scripts/
